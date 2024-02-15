@@ -1,13 +1,9 @@
 # covid-19-tracker
 Certainly! Below is a basic README.md file for a COVID-19 Tracker web application built using HTML, CSS, and JavaScript:
-
----
-
-# COVID-19 Tracker
-
+![desktop](https://github.com/omkarchoudhary001/covid-19-tracker/assets/109873576/d8061ca6-a56e-477d-8d91-65e3b915e2f3)
 ## Description
 This is a simple web application designed to track COVID-19 cases worldwide. It provides real-time statistics on confirmed cases, recovered cases, and deaths. Users can also view data on a country-specific level.
-
+checkout-https://omkarchoudhary001.github.io/covid-19-tracker/
 ## Features
 - Real-time data updates from reliable sources.
 - Global statistics overview.
@@ -23,7 +19,7 @@ This is a simple web application designed to track COVID-19 cases worldwide. It 
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/covid19-tracker.git
+   git clone https://omkarchoudhary001.github.io/covid-19-tracker/
    ```
 2. Open the `index.html` file in your web browser.
 
@@ -36,19 +32,10 @@ This is a simple web application designed to track COVID-19 cases worldwide. It 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
+2. Create a new branch (`https://omkarchoudhary001.github.io/covid-19-tracker/`).
 3. Make your changes.
-4. Commit your changes (`git commit -am 'Add some feature'`).
-5. Push to the branch (`git push origin feature/your-feature`).
+4. Commit your changes 
+5. Push to the branch 
 6. Create a new Pull Request.
 
-## Credits
-- Data provided by [Your Data Source].
-- Icons by [Icon Source].
 
-## License
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Make sure to replace placeholders like `[Your Data Source]`, `[Icon Source]`, and `[License Name]` with appropriate details. This README provides a basic structure, and you can expand or customize it further based on your project's specific requirements.
